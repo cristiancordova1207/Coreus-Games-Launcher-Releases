@@ -1,0 +1,52 @@
+{
+ "launcher": {
+  "version": "2.0.0",
+  "size": 175605263,
+  "sha256": "f7477b1f02a36cc8d54a1a427bde611ce2775105d2db32927d135e02c82502ee",
+  "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/v2.0.0/Coreus-Games-2.0.0.zip"
+ },
+ "games": {
+  "snake": {
+   "version": "1.1.0",
+   "size": 42448828,
+   "sha256": "b2744c2f87c08796a61be943c0a16a950be73043627166100300d82e51e85233",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/snake-1.1.0.exe"
+  },
+  "fashion": {
+   "version": "1.1.0",
+   "size": 42647202,
+   "sha256": "8f74bf2b9defb5f66907b93ee9ce44502d7f5628ef97229713f3fc8fba2ec1be",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/fashion-1.1.0.exe"
+  },
+  "dance": {
+   "version": "1.1.0",
+   "size": 42210872,
+   "sha256": "5ab15a1f32ea68af20fef5b1b2450dd5e9b8e4ed0ffc990fa3ca8d68854926b0",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/dance-1.1.0.exe"
+  },
+  "aura": {
+   "version": "1.0.0",
+   "size": 42285799,
+   "sha256": "17063a4a550452f8a11498404c3fd14cbe68d7d840c6c4b431e18d8a1bb98bbd",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/aura-1.0.0.exe"
+  },
+  "graffiti": {
+   "version": "1.3.0",
+   "size": 42572425,
+   "sha256": "2e88ab01f2d550489fe98cdbec8e736df525d9c0317136d21e02ee9d35ecf277",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/graffiti-1.3.0.exe"
+  },
+  "redcarpet": {
+   "version": "1.1.0",
+   "size": 42656112,
+   "sha256": "df2540b95a867553851a7813d69878b7714715e2e6080391e3eba037ed33b0b8",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/redcarpet-1.1.0.exe"
+  },
+  "overlays": {
+   "version": "1.3.0",
+   "size": 42195664,
+   "sha256": "1a2c82704d46aa6e6e7ff811aa7c3a5b78e122c42945b088b654f2edd365e92a",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Launcher-Releases/releases/download/programas-2/overlays-1.3.0.exe"
+  }
+ }
+}
